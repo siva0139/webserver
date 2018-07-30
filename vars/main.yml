@@ -1,0 +1,6 @@
+---
+# vars file for webserver
+apt_package: apache2
+yum_package: httpd
+apache2_port: 85
+httpd_port: 85
